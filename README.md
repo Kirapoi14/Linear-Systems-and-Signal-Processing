@@ -1,2 +1,2 @@
-# Linear-Systems-Signal-Processing
+# Linear-Systems-and-Signal-Processing
 Fundamentals of telecommunication systems
