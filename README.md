@@ -48,12 +48,12 @@ Linear-Systems-and-Signal-Processing/
 3. Each matlab program will plot the music waveform, play the music, and export the music file.
 
 The graph you get using fft_PolyU( ) should look like this:
-<img src="Sample Figures/original.jpg" />
+<p align="left">
+    <img src="Sample Figures/original.jpg" />
+</p>
 
 After going through a low-pass filter with 1KHz cut-off frequency, your plot should look something like this:
-<p align="center">
-    <img src="Sample Figures/filtered.jpg" />
-</p>
+<img src="Sample Figures/filtered.jpg" />
 
 After reconstructing by using ifft_PolyU( ) back to the time domain, your plot should look something like this:
 <img src="Hw2/lowpass_1kHz/lowpass_1kHz_3.jpg" />
