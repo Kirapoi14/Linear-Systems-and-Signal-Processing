@@ -5,7 +5,7 @@ This repository contains lecture notes, homework, and lab results of the Signals
 
 ```
 Linear-Systems-and-Signal-Processing/
-├── Hw1/              # Phase modulation homework
+├── Hw1/                 # Phase modulation homework
 │   ├── yback
 │   │   └── yback.m  
 │   ├── yfast
@@ -15,21 +15,21 @@ Linear-Systems-and-Signal-Processing/
 │   ├── yt
 │   │   └── yt.m
 │   └── Hw1.m            # Overall program for Hw1
-├── Hw2/             # Filter development homework
+├── Hw2/                 # Filter development homework
 │   ├── highpass_1kHz
 │   │   └── highpass_1kHz.m  
 │   ├── lowpass_1kHz
 │   │   └── lowpass_1kHz.m  
 │   └── lowpass_500Hz
 │       └── lowpass_500Hz.m
-├── Lab1             # Copper wires labortary    
-├── Lab2/             # Simulations labortary of digital transmissions
+├── Lab1                 # Copper wires labortary    
+├── Lab2/                # Simulations labortary of digital transmissions
 │   ├── Documents 
 │   ├── Figures
 │   └── lab2.m  
 ├── Lecture notes                 
-├── Sample Figures              # Displayed figures from documents
-└── Tut                 # Tutorial materials sorted by the TA
+├── Sample Figures       # Displayed figures from documents
+└── Tut                  # Tutorial materials sorted by the TA
 ```
 
 ## Environment Configuration
