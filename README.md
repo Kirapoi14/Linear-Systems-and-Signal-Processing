@@ -51,7 +51,9 @@ The graph you get using fft_PolyU( ) should look like this:
 <img src="Sample Figures/original.jpg" />
 
 After going through a low-pass filter with 1KHz cut-off frequency, your plot should look something like this:
-<img src="Sample Figures/filtered.jpg" />
+<p align="center">
+    <img src="Sample Figures/filtered.jpg" />
+</p>
 
 After reconstructing by using ifft_PolyU( ) back to the time domain, your plot should look something like this:
 <img src="Hw2/lowpass_1kHz/lowpass_1kHz_3.jpg" />
