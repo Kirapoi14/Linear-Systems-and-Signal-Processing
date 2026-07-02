@@ -30,6 +30,7 @@ Linear-Systems-and-Signal-Processing/
 ├── Lecture notes                 
 ├── Sample Figures              # Displayed figures from documents
 └── Tut                 # Tutorial materials sorted by the TA
+```
 
 ## Environment Configuration
 - MATLAB with the necessary toolboxes, especially Signal Processing Toolbox
