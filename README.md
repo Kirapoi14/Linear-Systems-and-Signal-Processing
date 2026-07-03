@@ -28,7 +28,7 @@ Linear-Systems-and-Signal-Processing/
 │   ├── Figures
 │   └── lab2.m  
 ├── Lecture notes                 
-├── Sample figures       # Displayed figures from documents
+├── Sample Figures       # Displayed figures from documents
 └── Tut                  # Tutorial materials sorted by the TA
 ```
 
