@@ -28,7 +28,7 @@ Linear-Systems-and-Signal-Processing/
 │   ├── Figures
 │   └── lab2.m  
 ├── Lecture notes                 
-├── Sample Figures       # Displayed figures from documents
+├── Sample figures       # Displayed figures from documents
 └── Tut                  # Tutorial materials sorted by the TA
 ```
 
@@ -37,7 +37,7 @@ Linear-Systems-and-Signal-Processing/
 
 ## Hw1
 1. In this exercise, you will be using the MATLAB program to get a sense of how x(2t), x(t/2) and x(-t) “sound” like, if x(t) is a piece of music.
-2. x(2t) -> yfast, x(t/2) -> yslow, x(-t) -> yback
+2. yfast -> x(2t), yslow -> x(t/2), yback -> x(-t)
 3. Each matlab program will plot the music waveform, play the music, and export the music file.
 
 <img src="Hw1/Hw1.jpeg" />
